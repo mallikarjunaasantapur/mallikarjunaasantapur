@@ -3,7 +3,7 @@
 <p><img src="https://github.com/mallikarjunaasantapur/mallikarjuna_n_a/blob/main/assets/images/Mallikarjuna.png" alt="Your Image" width="200" align="right" margin-right="200" padding = "0"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallikarjunaasantapur&label=Profile%20views&color=0e75b6&style=flat" alt="mallikarjunaasantapur" /> </p>
 
-📫 How to reach me **mallikarjun2027@gmail.com**
+📫 How to reach me? **mallikarjun2027@gmail.com**
 
 <div display = flex>
       <h3 align="left">Connect with me:</h3>
